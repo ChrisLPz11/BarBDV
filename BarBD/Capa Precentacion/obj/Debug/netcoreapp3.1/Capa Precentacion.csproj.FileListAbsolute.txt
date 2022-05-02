@@ -1,0 +1,28 @@
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\bin\Debug\netcoreapp3.1\Capa Precentacion.exe
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\bin\Debug\netcoreapp3.1\Capa Precentacion.deps.json
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\bin\Debug\netcoreapp3.1\Capa Precentacion.runtimeconfig.json
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\bin\Debug\netcoreapp3.1\Capa Precentacion.runtimeconfig.dev.json
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\bin\Debug\netcoreapp3.1\Capa Precentacion.dll
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\bin\Debug\netcoreapp3.1\Capa Precentacion.pdb
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\bin\Debug\netcoreapp3.1\Capa de Datos.dll
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\bin\Debug\netcoreapp3.1\Capa Negocio.dll
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\bin\Debug\netcoreapp3.1\Capa Negocio.pdb
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\bin\Debug\netcoreapp3.1\Capa de Datos.pdb
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\obj\Debug\netcoreapp3.1\Capa Precentacion.csproj.AssemblyReference.cache
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\obj\Debug\netcoreapp3.1\Capa_Precentacion.Form1.resources
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\obj\Debug\netcoreapp3.1\Capa_Precentacion.Properties.Resources.resources
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\obj\Debug\netcoreapp3.1\Capa Precentacion.csproj.GenerateResource.cache
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\obj\Debug\netcoreapp3.1\Capa Precentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\obj\Debug\netcoreapp3.1\Capa Precentacion.AssemblyInfoInputs.cache
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\obj\Debug\netcoreapp3.1\Capa Precentacion.AssemblyInfo.cs
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\obj\Debug\netcoreapp3.1\Capa Precentacion.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\obj\Debug\netcoreapp3.1\Capa Precentacion.csproj.CopyComplete
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\obj\Debug\netcoreapp3.1\Capa Precentacion.dll
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\obj\Debug\netcoreapp3.1\Capa Precentacion.pdb
+C:\Users\Cristian\source\repos\BarBD\Capa Precentacion\obj\Debug\netcoreapp3.1\Capa Precentacion.genruntimeconfig.cache

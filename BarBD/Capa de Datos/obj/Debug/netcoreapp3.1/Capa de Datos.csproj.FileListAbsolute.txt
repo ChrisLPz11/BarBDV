@@ -1,0 +1,10 @@
+C:\Users\Cristian\source\repos\BarBD\Capa de Datos\bin\Debug\netcoreapp3.1\Capa de Datos.deps.json
+C:\Users\Cristian\source\repos\BarBD\Capa de Datos\bin\Debug\netcoreapp3.1\Capa de Datos.dll
+C:\Users\Cristian\source\repos\BarBD\Capa de Datos\bin\Debug\netcoreapp3.1\Capa de Datos.pdb
+C:\Users\Cristian\source\repos\BarBD\Capa de Datos\obj\Debug\netcoreapp3.1\Capa de Datos.csproj.AssemblyReference.cache
+C:\Users\Cristian\source\repos\BarBD\Capa de Datos\obj\Debug\netcoreapp3.1\Capa de Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\source\repos\BarBD\Capa de Datos\obj\Debug\netcoreapp3.1\Capa de Datos.AssemblyInfoInputs.cache
+C:\Users\Cristian\source\repos\BarBD\Capa de Datos\obj\Debug\netcoreapp3.1\Capa de Datos.AssemblyInfo.cs
+C:\Users\Cristian\source\repos\BarBD\Capa de Datos\obj\Debug\netcoreapp3.1\Capa de Datos.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\BarBD\Capa de Datos\obj\Debug\netcoreapp3.1\Capa de Datos.dll
+C:\Users\Cristian\source\repos\BarBD\Capa de Datos\obj\Debug\netcoreapp3.1\Capa de Datos.pdb

@@ -1,0 +1,13 @@
+C:\Users\Cristian\source\repos\BarBD\Capa Negocio\bin\Debug\netcoreapp3.1\Capa Negocio.deps.json
+C:\Users\Cristian\source\repos\BarBD\Capa Negocio\bin\Debug\netcoreapp3.1\Capa Negocio.dll
+C:\Users\Cristian\source\repos\BarBD\Capa Negocio\bin\Debug\netcoreapp3.1\Capa Negocio.pdb
+C:\Users\Cristian\source\repos\BarBD\Capa Negocio\bin\Debug\netcoreapp3.1\Capa de Datos.dll
+C:\Users\Cristian\source\repos\BarBD\Capa Negocio\bin\Debug\netcoreapp3.1\Capa de Datos.pdb
+C:\Users\Cristian\source\repos\BarBD\Capa Negocio\obj\Debug\netcoreapp3.1\Capa Negocio.csproj.AssemblyReference.cache
+C:\Users\Cristian\source\repos\BarBD\Capa Negocio\obj\Debug\netcoreapp3.1\Capa Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\source\repos\BarBD\Capa Negocio\obj\Debug\netcoreapp3.1\Capa Negocio.AssemblyInfoInputs.cache
+C:\Users\Cristian\source\repos\BarBD\Capa Negocio\obj\Debug\netcoreapp3.1\Capa Negocio.AssemblyInfo.cs
+C:\Users\Cristian\source\repos\BarBD\Capa Negocio\obj\Debug\netcoreapp3.1\Capa Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\BarBD\Capa Negocio\obj\Debug\netcoreapp3.1\Capa Negocio.csproj.CopyComplete
+C:\Users\Cristian\source\repos\BarBD\Capa Negocio\obj\Debug\netcoreapp3.1\Capa Negocio.dll
+C:\Users\Cristian\source\repos\BarBD\Capa Negocio\obj\Debug\netcoreapp3.1\Capa Negocio.pdb
